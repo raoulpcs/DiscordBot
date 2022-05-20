@@ -75,4 +75,4 @@ fs.readdirSync(`./events/`).forEach(dir => {
 })
 
 
-client.login('OTcyNjIwMDA0MDMxODY4OTY4.Ynbs9w.vYztAI4djXGGmEciqAkLiBq5Gqo')
+client.login('TOKEN HERE BUT CANT SHEARE HERE.')
